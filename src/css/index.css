@@ -214,7 +214,7 @@
     display: block;
   }
   div.box-1{
-    width:100vw;
+    width:auto;
     height: 640px;;
     border-radius: 20px;
     background-image:url('/Poze/pagina.png');
