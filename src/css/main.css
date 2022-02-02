@@ -217,7 +217,7 @@
     width:auto;
     height: 640px;;
     border-radius: 20px;
-    background-image:url('Poze/pagina.png');
+    background-image:url('/Poze/pagina.png');
     background-size: cover;
     align-items:center;
     text-align:center;

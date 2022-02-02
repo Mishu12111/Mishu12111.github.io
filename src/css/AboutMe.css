@@ -222,7 +222,7 @@
     border-radius: 20px;
   }
   .parallax{
-    background: url('Poze/sacou.jpg') no-repeat center;
+    background: url('/Poze/sacou.jpg') no-repeat center;
     background-size:cover;
     background-attachment: fixed;
     height: 400px;
